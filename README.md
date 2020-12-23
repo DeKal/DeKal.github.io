@@ -1,3 +1,0 @@
-# DeKal.github.io
-
-WIP
